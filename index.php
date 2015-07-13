@@ -10,7 +10,7 @@
 		join the professional world with a large defense contractor. Charles disliked the job and decided to make a move to New
 		Mexico and go to work as a consultant for a non-profit that focused on economic development. </p>
 
-		<p> Charles decided in order to help my professional development he would take the Deep Dive Coding course in order
+		<p> Charles decided in order to help his professional development he would take the Deep Dive Coding course in order
 		to add to his skill set and help become more marketable to employers.</p>
 
 		<p> Charles also owns a year old english bulldog named Holly</p>
