@@ -11,7 +11,9 @@
 		Mexico and go to work as a consultant for a non-profit that focused on economic development. </p>
 
 		<p> I decided in order to help my professional development I would take the Deep Dive Coding course in order
-		to add to my skill set and help become more marketable to employers. </p>
+		to add to my skill set and help become more marketable to employers.</p>
+
+		<p> I also own a year old english bulldog named Holly</p>
 		<img src="C:\Users\sandidgec\Pictures\2014_06_15\IMG_0369.jpg" alt="Puppy Pic" style="width:128px;height:128px;">
 	</body>
 
